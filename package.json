@@ -1,0 +1,19 @@
+{
+  "name": "automate-pptx",
+  "version": "1.0.0",
+  "description": "Generate powerpoint for status reporting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseaborder/automate-pptx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelseaborder/automate-pptx/issues"
+  },
+  "homepage": "https://github.com/chelseaborder/automate-pptx#readme"
+}
