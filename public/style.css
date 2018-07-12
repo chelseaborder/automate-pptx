@@ -1,0 +1,27 @@
+body {
+  background: #f2f2f2;
+}
+form {
+  margin: 100px;
+  padding:100px;
+  font-family: 'Muli', sans-serif;
+  background: rgba(255,255,255);
+  border-radius: 20px;
+  box-shadow: 0px 0px 50px rgba(255,255,255,0.3);
+}
+p {
+  font-size: 30px;
+  font-weight:700;
+}
+
+#select-box {
+  width: 200px;
+}
+
+.button-submit {
+  background: linear-gradient(180deg, rgb(117,177,244) 1%,#007aff 100%);
+  color: #fff;
+  margin: 5px;
+  padding: 3px 8px;
+  border-radius: 5px;
+}
